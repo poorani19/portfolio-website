@@ -8,9 +8,6 @@ This personal portfolio showcasing my web development skills, projects, and my f
 - Simple Aspects 
 - Contact form with email integration  
 
-## Live Demo  
-[Visit Portfolio](https://your-live-link.com)  
-
 ## Technologies Used  
 - HTML5  
 - CSS
